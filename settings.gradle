@@ -1,0 +1,4 @@
+rootProject.name = 'GradleAssignments'
+include 'SimpleCalculator'
+include 'Calculator_Implementation'
+
